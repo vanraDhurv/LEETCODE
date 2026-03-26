@@ -13,7 +13,7 @@ I am practicing Data Structures and Algorithms to improve problem-solving skills
 
 ## 🎯 Goal
 
-Solve 10+ problems and strengthen DSA concepts.
+Solve 150+ problems and strengthen DSA concepts.
 
 ## 🛠️ Language
 
